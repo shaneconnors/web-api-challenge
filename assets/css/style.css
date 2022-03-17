@@ -1,0 +1,59 @@
+body {
+    background: #ededed;
+}
+
+header {
+    background-color: rgb(37, 1, 37);
+    opacity: 0.8;
+    padding: 20px 25px;
+    border-bottom: 5px solid black;
+}
+
+header h2 {
+  color: #ededed;
+  text-align: right;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35px;
+
+
+}
+
+header h3 {
+  color: #ededed;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  
+}
+
+.btn {
+    outline: none;
+    border: none;
+    padding: 10px 15px;
+    background: rgb(37, 1, 37);
+    opacity: 0.8;
+    font-size: 2.2rem;
+    border-radius: 12px;
+    top: -3px;
+    box-shadow: 0 3px var(--grey);
+    text-align: center;
+    color: #ededed;
+    margin: auto;
+    display: flex;
+    display: grid;
+    border: solid black;
+}
+
+h1 {
+  text-align: center;
+  font-size: 130px;
+  font-style: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  text-align: center;
+  font-size: 45px;
+  padding-left: 400px;
+  padding-right: 400px;
+  font-family: Arial, Helvetica, sans-serif;
+}
